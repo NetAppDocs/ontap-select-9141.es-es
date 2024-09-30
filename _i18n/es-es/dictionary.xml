@@ -3258,7 +3258,6 @@ Si hace clic en _Model_, se muestra una lista completa de los parámetros JSON, 
   <block id="58c277c116ff23ffb9879debb95b4968" category="list-text">Compatibilidad con NVMe sobre TCP</block>
   <block id="db5f5d6e1e5a3e29724ce78258556ff1" category="list-text">Cuando actualice a ONTAP Select 9.13.1, debe tener la nueva licencia para admitir NVMe over TCP. Esta licencia se incluye automáticamente cuando se implementa ONTAP Select por primera vez desde la versión 9.13.1.</block>
   <block id="5f4c6121d4f63aaa5d6daebc2a2effee" category="list-text">Se ha actualizado el soporte de VMware ESXi</block>
-  <block id="4d8daf3f51ebf7fefb4dfcf900e9b79d" category="list-text">A partir de ONTAP 9.13.1, se admite VMware ESXi 8,0 GA (compilación 20513097) con la versión de hardware 4 y posteriores.</block>
   <block id="2183c79114d56889f4a8854299f703a5" category="list-text">A partir de abril de 2024, ONTAP Select Deploy 9.13.1 ya no está disponible en el sitio de soporte de NetApp. Si ejecuta ONTAP Select Deploy 9.13.1, debe actualizar a ONTAP Select Deploy 9.14.1P2 lo antes posible. Para obtener más información, consulte <block ref="6635db952aa4480bb5bc591b4d6d32f6" category="inline-link-macro-rx"></block>.</block>
   <block id="77e5d3b8719596b41c77222a6711e69b" category="section-title">ONTAP Select 9.12.1</block>
   <block id="05dd50ebf48db80deadf4c9a847c2ce4" category="paragraph">ONTAP Select 9.12.1 se beneficia de la mayoría de los nuevos desarrollos en la versión actual del producto principal de ONTAP. No incluye ninguna nueva función ni mejora específica de ONTAP Select.</block>
@@ -3773,4 +3772,6 @@ show-spare-disks del agregado de almacenamiento</block>
   <block id="0a15f7ba73868a32304fdf52855463c9" category="sidebar">Quite imágenes ONTAP Select</block>
   <block id="afc9d68a1be701598b5ef94dc0be2844" category="sidebar">Recupere la puesta en marcha de un clúster de dos nodos</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 y versiones posteriores ahora admite la Recuperación ante desastres de SVM como origen y destino con un máximo de 16 relaciones. La compatibilidad con la recuperación ante desastres de SVM se limita al uso de la versión ONTAP de origen a las versiones +2. Por ejemplo, el origen de ONTAP Select 9.12.1 puede conectarse a las versiones 9.12.1, 9.13.1 o 9.14.1 de ONTAP de destino.</block>
+  <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1 incluye compatibilidad con VMware ESXi 8,0.2.</block>
+  <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">A partir de ONTAP 9.13,1, se admite VMware ESXi 8.0.1 GA (compilación 20513097) con las versiones de hardware 4 y posteriores.</block>
 </blocks>
