@@ -3679,7 +3679,6 @@ show-spare-disks del agregado de almacenamiento</block>
   <block id="bf228c91d777320bb66324531a85cdb5" category="list-text">URL de proxy (opcional)</block>
   <block id="a070d5cad46a2ff939c511d82e8fa8a6" category="list-text">Escriba *?* y pulse *Intro* para mostrar una lista de los comandos de shell de administración disponibles.</block>
   <block id="f8304478cfdeb2db287b6dcf0b36f3a8" category="sidebar">NetApp ONTAP Select es un dispositivo de almacenamiento definido por software que se puede utilizar en diferentes servidores de hardware genérico que ejecutan el hipervisor VMware ESXi o máquina virtual basada en kernel (KVM). Proporciona la agilidad que necesita para crear una infraestructura de cloud privado flexible y escalable. Este sitio contiene la documentación para ONTAP Select 9.14.1.</block>
-  <block id="7436b418bed093768e360d32105591d2" category="sidebar">Documentación de ONTAP Select</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Manos a la obra</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notas de la versión</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novedades</block>
@@ -3774,4 +3773,5 @@ show-spare-disks del agregado de almacenamiento</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 y versiones posteriores ahora admite la Recuperación ante desastres de SVM como origen y destino con un máximo de 16 relaciones. La compatibilidad con la recuperación ante desastres de SVM se limita al uso de la versión ONTAP de origen a las versiones +2. Por ejemplo, el origen de ONTAP Select 9.12.1 puede conectarse a las versiones 9.12.1, 9.13.1 o 9.14.1 de ONTAP de destino.</block>
   <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1 incluye compatibilidad con VMware ESXi 8,0.2.</block>
   <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">A partir de ONTAP 9.13,1, se admite VMware ESXi 8.0.1 GA (compilación 20513097) con las versiones de hardware 4 y posteriores.</block>
+  <block id="7f354690d454e4370ee79703e014fbd0" category="sidebar">Documentación de ONTAP Select 9.14.1</block>
 </blocks>
