@@ -38,13 +38,6 @@ El módulo de soporte común _deploy_requests.py_ contiene una sola clase. Cada 
 
 Es posible crear un clúster de ONTAP Select con el script cluster.py. Según los parámetros de la CLI y el contenido del archivo de entrada JSON, puede modificar el script en el entorno de implementación de la manera siguiente:
 
-[NOTE]
-====
-* A partir de ONTAP Select 9.10.1, ya no es posible poner en marcha un clúster nuevo en el hipervisor KVM.
-* A partir de ONTAP Select 9.11.1, toda la funcionalidad de capacidad de gestión ya no está disponible para los clústeres y hosts KVM existentes, excepto para las funciones de desconectar y eliminar.
-
-
-====
 * Hipervisor
 Puede implementarse en ESXi o KVM (según la versión Deploy). Cuando se pone en marcha en ESXi, el hipervisor puede gestionarse con vCenter o puede ser un host independiente.
 * Tamaño del clúster

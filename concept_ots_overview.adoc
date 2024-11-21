@@ -88,6 +88,7 @@ ONTAP Select no admite varias funciones de ONTAP. En la mayoría de los casos, e
 * Protección de ransomware autónoma (ARP)
 * Espacio IP del clúster
 No se admite ninguna modificación del espacio IP del clúster, como la adición o eliminación de puertos, LAN virtuales (VLAN) o grupos de agregación de enlaces.
+* ESXi 8,0 U3
 * Fibre Channel
 No son compatibles con Fibre Channel ni Fibre Channel sobre Ethernet.
 * Supervisores de estado
